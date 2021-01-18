@@ -26,3 +26,6 @@ Degette got 73.8% of the vote, or 272,892 total votes.
 
 The winner, by a significant margin was Diana DeGette, with 73.8% of the vote, 272,892 votes total. 
 
+## Challenge Overview
+
+We found this code to be very powerful, and could be easily modified to any election results, anywhere. An additional thing to look at would be a further subdivision of votes by voter age, gender and county.

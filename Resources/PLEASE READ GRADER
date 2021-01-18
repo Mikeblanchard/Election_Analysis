@@ -1,0 +1,15 @@
+So i had initially saved the .csv file in the main folder, and i could run the PyPoll_Challenge by removing the Resources folder in this line:
+
+  # Add a variable to load a file from a path.
+  file_to_load = os.path.join("Resources/election_results.csv")
+    
+ then i wanted to put it in the Resource folder as it's supposed to be, but i think i messed up by cutting andd pasting some of my code directly into github and uploading some
+ others via BASH.
+ 
+ Then i started getting errors. 
+
+![](https://github.com/Mikeblanchard/Election_Analysis/blob/main/Resources/Error.png)
+
+and keept getting 400 errors when trying to save the .csv directly into github.
+
+after trying for hours and getting error messages, I will have to submit as is. But i assure you it did run at a point, and thats how i got the images and .txt file.

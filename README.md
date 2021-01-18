@@ -14,6 +14,8 @@ Our task was to:
 
 We used Election_Results data sheet for our analysis.
 
+a link to the full code provided here: https://github.com/Mikeblanchard/Election_Analysis/blob/main/PyPoll_Challenge.py
+
 ![](https://github.com/Mikeblanchard/Election_Analysis/blob/main/analysis/election_results.png)
 
 ## Summary

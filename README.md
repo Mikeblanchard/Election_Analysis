@@ -14,5 +14,5 @@ Our task was to:
 
 We used Election_Results data sheet for our analysis.
 
-
+![](https://github.com/Mikeblanchard/Election_Analysis/blob/main/analysis/election_results.png)
 

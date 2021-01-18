@@ -16,3 +16,13 @@ We used Election_Results data sheet for our analysis.
 
 ![](https://github.com/Mikeblanchard/Election_Analysis/blob/main/analysis/election_results.png)
 
+## Summary
+
+We can see that there were a total of 369,711 votes cast. 
+
+Doane got 3.1% of the vote, or 11,606 total votes.
+Stockham got 23.0% of the vote, or 85,213 total votes.
+Degette got 73.8% of the vote, or 272,892 total votes. 
+
+The winner, by a significant margin was Diana DeGette, with 73.8% of the vote, 272,892 votes total. 
+
